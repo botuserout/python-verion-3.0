@@ -1,0 +1,17 @@
+So basically The Python Terminal is basically used for the testing small code behaviours, and other things.
+== What is loop ? 
+== A loop is like a self repeating sequence of code that help to shorten the line of code (loc) for repeating code for doing the same thing over and over.
+
+== The Triple Dot in the python shell is specify that there's more code can be written as per shell instrucions, Even if we can write more codes or directly can press enter for the execution of the code
+
+== What is function, what is funcions without pernthesis ??
+
+--Improt Your own code file in the shell
+---- Method:- 
+              import [File Name] ---> then enter 
+             -- example: 
+                         import second_code
+                                       10
+                                        20
+== what is attribute? 
+   
